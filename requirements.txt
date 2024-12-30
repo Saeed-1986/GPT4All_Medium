@@ -34,7 +34,7 @@ httpx==0.23.3
 huggingface-hub==0.14.1
 idna==3.4
 importlib-metadata==6.6.0
-Jinja2==3.1.2
+Jinja2==3.1.5
 joblib==1.2.0
 jsonlines==3.1.0
 jsonschema==4.17.3
