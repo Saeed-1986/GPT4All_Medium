@@ -66,7 +66,7 @@ pandas==1.5.3
 pdf2image==1.16.3
 pdfminer.six==20221105
 Pillow==9.5.0
-protobuf==3.20.3
+protobuf==4.25.8
 pyarrow==11.0.0
 pycparser==2.21
 pydantic==1.10.7
@@ -106,14 +106,14 @@ toolz==0.12.0
 torch==2.0.0
 tornado==6.3.1
 tqdm==4.65.0
-transformers==4.28.1
+transformers==4.52.0
 typer==0.9.0
 typing-inspect==0.8.0
 typing_extensions==4.5.0
 tzdata==2023.3
 tzlocal==4.3
 unstructured==0.6.5
-urllib3==1.26.15
+urllib3==2.5.0
 validators==0.20.0
 wonderwords==2.2.0
 wrapt==1.14.1
